@@ -7,7 +7,7 @@ enum {
 };
 ```
 
-#compile
+# compile
 ```
 int compile(int fd) {
   int i, *t;
